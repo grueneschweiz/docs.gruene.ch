@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'GREEN Websites', // Title for your website.
   tagline: 'Documentation',
-  url: 'https://gruene.ch', // Your website URL
+  url: 'https://docs.gruene.ch', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -44,7 +44,7 @@ const siteConfig = {
   ],
 
   // If you have users set above, you add it here:
-  users,
+  //users,
 
   /* path to images for header/footer */
   headerIcon: 'img/favicon.ico',
@@ -53,8 +53,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#5b417a',
-    secondaryColor: '#3f2d55',
+    primaryColor: '#84B414',
+    secondaryColor: '#E10078',
   },
 
   /* Custom fonts for website */
@@ -72,7 +72,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} GRÜNE Schweiz`,
+  copyright: `Copyright © ${new Date().getFullYear()} GREENS Switzerland`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -92,14 +92,14 @@ const siteConfig = {
   twitterImage: 'img/undraw_tweetstorm.svg',
 
   // Show documentation's last contributor's name.
-  // enableUpdateBy: true,
+  enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/grueneschweiz/docs.gruene.ch',
 };
 
 module.exports = siteConfig;

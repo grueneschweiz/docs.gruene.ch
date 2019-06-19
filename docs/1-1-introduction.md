@@ -1,6 +1,5 @@
 ---
 title: Introduction
-sidebar_label: Introduction
 ---
 
 You don't have a personal Website yet?
@@ -19,7 +18,7 @@ different functions and you will soon be familiar with WordPress. **Trying it
 out is the be-all and end-all, you can't break anything.**
 
 For the sake of fairness all screenshots in this documentation are neither 
-german nor french, they are simply in english – even tough your installation 
+german nor french, they are simply in english – even though your installation 
 will be well translated into the language of your preference.
    
 ## WordPress is well documented online
@@ -27,6 +26,6 @@ will be well translated into the language of your preference.
 **If you get stuck, a Google search is recommended in any case.** WordPress is so 
 widespread that almost every question is answered by a small tutorial or a 
 forum post. If you don't find what you're looking for on Google, we'll be 
-happy to help. Just Email us 😉
+happy to help. Just email us 😉
 
 Now we wish you a lot of fun and success.
