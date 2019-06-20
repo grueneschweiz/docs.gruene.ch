@@ -1,7 +1,7 @@
 {
   "docs": {
     "Preface": ["1-1-introduction", "1-2-terms"],
-    "First Steps": ["2-1-login"]
+    "First Steps": ["2-1-login", "2-2-front"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
