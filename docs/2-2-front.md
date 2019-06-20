@@ -34,13 +34,15 @@ Just play around with the main campaign elements in the
 [edit mode](#how-to-get-to-the-edit-screen) of the front page and you'll find
 out how it works.
 
-The main idea of the **campaign summary** is, to provide the reader with your 
+### Campaign Summary
+The main idea of the campaign summary is, to provide the reader with your 
 main mission in very few words. If you need more space, you can create a 
 dedicated page and link it to the campaign summary using the _Read more 
 button_. For now, just keep it short. Once you know more about pages, adding
 the link is intuitive.
 
-The **call to action** section is designed to easily involve your visitors. 
+### Call to Action
+The call to action section is designed to easily involve your visitors. 
 Add a form with a very low level involvement, like to subscribe to your 
 newsletter. To add forms, see the [forms chapter](x-x-forms.md).
 
@@ -52,7 +54,7 @@ Blocks_ section. Content blocks can be positioned in any order and you are
 free to add any type of block.
 ![Screenshot](assets/content-blocks.png)
 
-Every content block has a _Block Title_. The Block title refers to this:
+Every content block has a _Block Title_. The block title refers to this:
 ![Screenshot](assets/block-title.png)
 You can link the block title to an [archive](1-2-terms.md#archives) 
 (category), any page, post or event on this website (internal), an external URL
@@ -84,14 +86,15 @@ testimonials in the [people section](x-x-people.md) first.
 ### Single Post / Page Teaser
 
 If you want to feature a special page or post on your front page, use this 
-block. It can be added multiple times.
+block. Create the [page](x-x-page.md) or [post](x-x-post.md) first. This block
+can be added multiple times.
 ![Screenshot](assets/article-block.png) 
 
 
 ### Double Post / Page Teaser
 
 This works analogous to the 
-[Single Post / Page Teaser](#single-post--page-teaser) but shows two teasers 
+[Single Post / Page Teaser](#single-post-page-teaser) but shows two teasers 
 at once.
 ![Screenshot](assets/article-double-block.png) 
 
@@ -118,4 +121,4 @@ information.
 ### Map Block
 
 This is advanced. If you know enough to use it, you most probably don't need
-this manual 😉.
+this manual 😉
