@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: '1-1-introduction', label: 'Docs'},
+    //{doc: '1-1-introduction', label: 'Docs'},
     //{doc: 'doc4', label: 'API'},
     //{blog: true, label: 'Blog'},
   ],
@@ -100,6 +100,12 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   repoUrl: 'https://github.com/grueneschweiz/docs.gruene.ch',
+
+  // Url base for the edit button
+  editUrl: 'https://github.com/grueneschweiz/docs.gruene.ch/edit/master/docs/',
+
+  // Translate button url
+  translationRecruitingLink: 'https://crowdin.com/project/docsgruenech',
 };
 
 module.exports = siteConfig;
