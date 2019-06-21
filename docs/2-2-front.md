@@ -1,5 +1,6 @@
 ---
 title: Edit front page
+sidebar_label: Front page
 ---
 
 ## Precondition
@@ -47,6 +48,10 @@ Add a form with a very low level involvement, like to subscribe to your
 newsletter. To add forms, see the [forms chapter](x-x-forms.md).
 
 
+## Saving changes
+![Screenshot](assets/save.png)
+This may take a few seconds. Wait until the page reloads.
+
 ## The content blocks
 
 All other content on the front page, is to be added and edited in the _Content
@@ -86,7 +91,7 @@ testimonials in the [people section](x-x-people.md) first.
 ### Single Post / Page Teaser
 
 If you want to feature a special page or post on your front page, use this 
-block. Create the [page](x-x-page.md) or [post](x-x-post.md) first. This block
+block. Create the [page](2-3-page.md) or [post](x-x-post.md) first. This block
 can be added multiple times.
 ![Screenshot](assets/article-block.png) 
 
@@ -122,3 +127,22 @@ information.
 
 This is advanced. If you know enough to use it, you most probably don't need
 this manual 😉
+
+
+## Search engines and social media
+We use the excellent third party plugin 
+[Yoast SEO](https://yoast.com/wordpress-seo/) for search engine optimization and
+to generate meta information for social media. It you want to know more, here is
+a great [documentation](https://yoast.com/wordpress-seo/) from the vendor 
+itself. However there is one very important thing, that you have to care 
+about: The preview text of the front page for social media and search 
+engines must be edited manually (on all other pages this goes automatically).
+
+![Screenshot](assets/yoast.png)
+Scroll to the bottom of the edit page, then click on the preview text in the 
+Yoast SEO metabox. A text field appears below. Enter your preview text here.
+
+If you want to test how you site looks on facebook, if someone shares it, use
+the [facebook debugger](https://developers.facebook.com/tools/debug/). 
+Enter your URL and hit _Debug_. Since facebook caches things you might have 
+to click _Fetch new scrape information_ twice.  
