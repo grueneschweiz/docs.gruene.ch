@@ -49,3 +49,8 @@ about a specific block, just add it. It contains a help text.
 This is optional, it's perfectly fine, if you leave it empty. However if you 
 like to add some additional content, feel free to experiment with it. We 
 invested, to explain it right in the editing mask.
+
+## Navigation
+In WordPress nothing appears in the navigation automatically. See the 
+[navigation chapter](x-x-navigation.md) for details on how to add the page to
+the navigation.
