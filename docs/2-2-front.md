@@ -107,9 +107,11 @@ at once.
 ### Latest Press Release
 
 This block is especially designed for party websites. You can configure 
-this block, to always display the newest [post](x-x-post.md) of a 
-certain category. If the given post contains a quote, the quote will be 
-displayed instead of the lead.
+this block, to always display the newest [post](2-4-post.md) of a 
+certain category. Make sure to use the 
+[_Press Release_ template](2-4-post.md#template). If the given 
+post contains a quote, the quote will be displayed instead of the lead.
+
 ![Screenshot](assets/press-release-block.png)
 
 
