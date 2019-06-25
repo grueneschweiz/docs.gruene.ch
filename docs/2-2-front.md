@@ -1,5 +1,5 @@
 ---
-title: Edit front page
+title: Edit the front page
 sidebar_label: Front page
 ---
 
@@ -77,7 +77,7 @@ page for every position block and add it as read more target.
 ### Events
 
 The events block displays your upcoming events. To add events, see the 
-[events chapter](x-x-events.md).
+[events chapter](2-6-events.md).
 ![Screenshot](assets/events-block.png)
 
 

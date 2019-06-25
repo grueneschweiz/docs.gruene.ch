@@ -1,5 +1,5 @@
 ---
-title: Edit post
+title: Edit a post
 sidebar_label: Post
 ---
 
@@ -34,7 +34,7 @@ an existing category or add a new one.
 If you don't assign a category, WordPress will automatically add it to the 
 default category _Uncategorized_.  
 
-> Don't be to specific with you categories. As member of parliament it might 
+> Don't be too specific with you categories. As member of parliament it might 
 be a good idea to add a category _Motion_ or _Speech_. Use tags for more 
 specific things like _solar energy_ or _AHV_.
 
