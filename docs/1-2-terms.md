@@ -29,10 +29,10 @@ the contacts page. Unlike posts, pages are usually linked directly in the
 menu.
 
 ### Posts
-Posts are used for content that can be categorized. So e.g. news, suggestions
-etc. but not for static contents like the page about me or the page contact. 
-Posts appear in archives while pages don't. Posts are usually not linked 
-directly in the menu, but they can be reached over the archives of their 
+Posts are used for content that can be categorized. So e.g. news, press releases
+etc. but not for static contents like the _about me_ or the _contact_ page. 
+Posts appear in [archives](#archives) while pages don't. Posts are usually not 
+linked directly in the menu, but they can be reached over the archives of their 
 categories. A post can be part of several archives.
 
 ### Archives
