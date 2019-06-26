@@ -36,7 +36,7 @@ will appear on your page.
 ### Header Image 
 The size of the header image depends on the visitors screen. It's therefore 
 crucial to set the focal point correctly. Learn more about it in the 
-[media chapter](2-5-media.md).
+[media chapter](2-5-media.md#focal-point).
 
 ### Content Blocks
 As on the [front page](2-2-front.md#the-content-blocks), you can add multiple

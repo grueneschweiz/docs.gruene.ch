@@ -17,14 +17,14 @@ and it's well translated. To get started, it's best to simply play with the
 different functions and you will soon be familiar with WordPress. **Trying it 
 out is the be-all and end-all, you can't break anything.**
 
-For the sake of fairness all screenshots in this documentation are neither 
-german nor french, they are simply in english – even though your installation 
+For the sake of fairness the screenshots in this documentation are sometimes 
+in english, sometimes french or german – even though your installation 
 will be well translated into the language of your preference.
    
 ## WordPress is well documented online
 
-**If you get stuck, a Google search is recommended in any case.** WordPress is so 
-widespread that almost every question is answered by a small tutorial or a 
+**If you get stuck, a Google search is recommended in any case**. WordPress 
+is so widespread that almost every question is answered by a small tutorial or a 
 forum post. If you don't find what you're looking for on Google, we'll be 
 happy to help. Just email us 😉
 

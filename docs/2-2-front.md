@@ -15,8 +15,8 @@ There are mainly two ways:
 the _edit page_ button.
 ![Screenshot](assets/edit-button.png)
 
-1. Go to pages, hover the mouse pointer over the front page and click the 
-edit link.
+1. Go to _Pages_, hover the mouse pointer over the front page and click the 
+_Edit_ link.
 ![Screenshot](assets/edit-page.png)
 
 
@@ -44,8 +44,8 @@ the link is intuitive.
 
 ### Call to Action
 The call to action section is designed to easily involve your visitors. 
-Add a form with a very low level involvement, like to subscribe to your 
-newsletter. To add forms, see the [forms chapter](2-7-form.md).
+Add a form with a very low level involvement, like one to subscribe to your 
+newsletter. See the [forms chapter](2-7-form.md) on how to create new forms.
 
 
 ## Saving changes
@@ -76,7 +76,7 @@ page for every position block and add it as read more target.
 
 ### Events
 
-The events block displays your upcoming events. To add events, see the 
+The events block displays your upcoming events. To create events, see the 
 [events chapter](2-6-events.md).
 ![Screenshot](assets/events-block.png)
 
@@ -108,8 +108,8 @@ at once.
 
 This block is especially designed for party websites. You can configure 
 this block, to always display the newest [post](2-4-post.md) of a 
-certain category. Make sure to use the 
-[_Press Release_ template](2-4-post.md#template). If the given 
+certain category (make sure to use the 
+[_Press Release_ template](2-4-post.md#template)). If the given 
 post contains a quote, the quote will be displayed instead of the lead.
 
 ![Screenshot](assets/press-release-block.png)
@@ -147,4 +147,4 @@ Yoast SEO metabox. A text field appears below. Enter your preview text here.
 If you want to test how you site looks on facebook, if someone shares it, use
 the [facebook debugger](https://developers.facebook.com/tools/debug/). 
 Enter your URL and hit _Debug_. Since facebook caches things you might have 
-to click _Fetch new scrape information_ twice.  
+to click _Fetch new scrape information_ twice.
