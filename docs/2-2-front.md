@@ -45,7 +45,7 @@ the link is intuitive.
 ### Call to Action
 The call to action section is designed to easily involve your visitors. 
 Add a form with a very low level involvement, like to subscribe to your 
-newsletter. To add forms, see the [forms chapter](x-x-forms.md).
+newsletter. To add forms, see the [forms chapter](2-7-form.md).
 
 
 ## Saving changes
@@ -91,7 +91,7 @@ testimonials in the [people section](x-x-people.md) first.
 ### Single Post / Page Teaser
 
 If you want to feature a special page or post on your front page, use this 
-block. Create the [page](2-3-page.md) or [post](x-x-post.md) first. This block
+block. Create the [page](2-3-page.md) or [post](2-4-post.md) first. This block
 can be added multiple times.
 ![Screenshot](assets/article-block.png) 
 

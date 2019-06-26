@@ -1,9 +1,26 @@
 {
   "docs": {
-    "Preface": ["1-1-introduction", "1-2-terms"],
-    "First Steps": ["2-1-login", "2-2-front", "2-3-page", "2-4-post", "2-5-media"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Preface": [
+      "1-1-introduction",
+      "1-2-terms"
+    ],
+    "First Steps": [
+      "2-1-login",
+      "2-2-front",
+      "2-3-page",
+      "2-4-post",
+      "2-5-media",
+      "2-7-form",
+      "2-8-navigation"
+    ],
+    "Advanced": [
+      "testimonials",
+      "people",
+      "footer",
+      "branding",
+      "get_active_button",
+      "seo",
+      "donations"
+    ]
   }
 }

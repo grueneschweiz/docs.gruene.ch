@@ -36,7 +36,7 @@ will appear on your page.
 ### Header Image 
 The size of the header image depends on the visitors screen. It's therefore 
 crucial to set the focal point correctly. Learn more about it in the 
-[media chapter](2-5-media.md).  
+[media chapter](2-5-media.md).
 
 ### Content Blocks
 As on the [front page](2-2-front.md#the-content-blocks), you can add multiple
@@ -52,5 +52,5 @@ invested, to explain it right in the editing mask.
 
 ## Navigation
 In WordPress nothing appears in the navigation automatically. See the 
-[navigation chapter](x-x-navigation.md) for details on how to add the page to
+[navigation chapter](2-8-navigation.md) for details on how to add the page to
 the navigation.
