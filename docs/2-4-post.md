@@ -34,7 +34,7 @@ an existing category or add a new one.
 If you don't assign a category, WordPress will automatically add it to the 
 default category _Uncategorized_.  
 
-> Don't be too specific with you categories. As member of parliament it might 
+> Don't be too specific with your categories. As member of parliament it might 
 be a good idea to add a category _Motion_ or _Speech_. Use tags for more 
 specific things like _solar energy_ or _AHV_.
 
@@ -62,7 +62,7 @@ There are three different post templates available:
 most of the time.
 1. The _Overview Page_ is here to create a nicely hand curated list of posts.
 Don't use it for post lists, that will update frequently and maybe wont have 
-an image. Use an [archive](x-x-archive.png) instead.
+an image. Use an [archive](2-8-navigation.md#categories-archives) instead.
 1. The _Press Release_ template is here for your press releases. Use it only 
 for this.
 

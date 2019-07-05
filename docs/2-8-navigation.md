@@ -62,7 +62,7 @@ linked over it's category. There may however be exceptions. Add them
 similarly as pages.
 
 
-### Categories
+### Categories / Archives
 
 Categories in the navigation add links to the archive page of all posts of 
 the given category. New posts will be added automatically, you won't have to 

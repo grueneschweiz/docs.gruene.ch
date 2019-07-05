@@ -39,7 +39,9 @@ archives of their categories. A post can be part of several archives.
 In the WordPress jargon, an archive refers to a collection of posts. The 
 posts are automatically presented in their archive (selected by the category). 
 It is impossible to add content directly to an archive. You must always 
-create a post.
+create a post. Archives are created through a category and it's pages are 
+only created through a [entry](2-8-navigation.md#categories-archives) in the 
+navigation.
 
 ![screenshot of an archive](assets/archive.png)
 
