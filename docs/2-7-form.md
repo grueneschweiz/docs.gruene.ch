@@ -27,8 +27,10 @@ and play with it.
 
 ## Adding a form to a post or page
 
-Use a _Form_ [content block](2-3-page.md#content-blocks) and select the form 
-you'd like to add.
+Forms are always part of a post or a page. If you want to have a form 
+visible, you have to create a post or page and add it to this post or page.
+To do so, use a _Form_ [content block](2-3-page.md#content-blocks) on the 
+correspondig page or post and select the form that should be displayed.
 
 ![Screenshot](assets/form-content-block.png)
 
@@ -99,13 +101,12 @@ the backend (see [submissions](#submissions)).
 ### Sender Settings
 
 To reduce the probability your form submission emails will be marked as spam,
-the sender address is always website@_yourdomain.com_. However you can 
+the sender address is fixed to website@_yourdomain.com_. However you can 
 specify a nice name, that will be displayed to the user instead to the email 
 address. 
 
-For the receivers to be able to respond, you must add the reply-to 
-email address. Usually this your own email address if fine for the reply-to 
-field.
+For the receivers to be able to respond, you must add the _Reply-to_ 
+email address. Usually this is your own email address.
 
 
 ## Submissions

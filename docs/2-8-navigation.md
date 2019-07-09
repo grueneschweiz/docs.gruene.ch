@@ -7,7 +7,7 @@ sidebar_label: Navigation
 
 Make sure you
 1. are [logged in](2-1-login.md).
-1. you have already created the content you want to add to the navigation.
+1. have already created the content, that you want to link in the navigation.
 
 
 ## How the navigation works
@@ -29,13 +29,13 @@ navigation.
 1. In the [backend](1-2-terms.md#backend) goto **Design** (1) **> Menus** (2).
 1. Select the navigation you want to edit (3) and click _select_ (4). 
 Generally you want to edit the _main-navigation_. 
-1. To add a page, expand the page accordion element on the right (5), tick 
+1. To add a page, expand the page accordion element on the left (5), tick 
 the page you want to add (7) and click _Add to Menu_ (8). If the page isn't 
-in the list click _View All_ to browser the full list (6).
-1. The page is now added to the bottom of your link list. Drag it into the 
+in the list click _View All_ to browse the full list (6).
+1. The page is now appended to the bottom of your link list. Drag it into the 
 right order (9) and the right hierarchy (10).
 1. When expanding the newly added navigation entry (11) you, you can 
-customize its label in the menu or remove it.
+customize it's label in the menu or remove it.
 1. Finally you have to save the changes (12).
 
 > **Note**: Limit the number of top level menu entries to a maximum of five. 
@@ -50,9 +50,9 @@ Nest your navigation by click dragging any item to the right, just below its
 future parent item. You can have at most three navigation levels.
 
 > **Note**: If you nest the navigation, your root element is no longer 
-clickable (it just opens the subnavigation). If you want the have a clickable
-menu entry to the root element, add it again as submenu entry. You may want 
-to rename the root element (11).
+clickable (it just opens the subnavigation). If you want the root element to 
+be a reachable link, add it again as submenu entry. You may want to rename the 
+root element (11).
 
 
 ### Adding posts

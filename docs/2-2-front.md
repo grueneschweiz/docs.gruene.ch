@@ -108,7 +108,7 @@ at once.
 
 This block is especially designed for party websites. You can configure 
 this block, to always display the newest [post](2-4-post.md) of a 
-certain category (make sure to use the 
+certain category (provided the posts were created with the 
 [_Press Release_ template](2-4-post.md#template)). If the given 
 post contains a quote, the quote will be displayed instead of the lead.
 

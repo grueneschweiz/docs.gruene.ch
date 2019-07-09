@@ -26,7 +26,7 @@ the visitors device and internet connection).
 If you have the choice use images with a **landscape aspect ratio**, they work 
 better with the different screen formats.
 
-### Format
+### File format
 
 For the web, it's best to use _.jpeg_ for photos and _.png_ for graphics and 
 images with text in it.
@@ -37,7 +37,8 @@ images with text in it.
 Because screens have different formats, you should set the focal point of 
 your image. **This prevents wired cropping.** To set the focal point, change 
 in to the edit screen by clicking the pen on the image (hover your mose over 
-it). Just change the value and close the dialog box. It is saved automatically.
+it). Just change the value in the corresponding dropdown and close the dialog
+ box. It is saved automatically.
 
 ![Screenshot](assets/focal-point.png)
 
