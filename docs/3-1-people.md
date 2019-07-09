@@ -5,7 +5,7 @@ sidebar_label: People
 
 ## Precondition
 We assume you have already gathered some experience with your website and know
-the basics like how to editor or add a post etc.
+the basics like how to edit or add a post etc.
 
 
 ## General idea

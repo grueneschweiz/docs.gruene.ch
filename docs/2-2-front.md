@@ -84,7 +84,7 @@ The events block displays your upcoming events. To create events, see the
 ### Testimonials
 
 Present your supporters using a testimonials block. You must add the 
-testimonials in the [people section](x-x-people.md) first.
+testimonials in the [people section](3-1-people.md) first.
 ![Screenshot](assets/testimonials-block.png)
 
 
