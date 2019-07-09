@@ -14,13 +14,10 @@
       "2-8-navigation"
     ],
     "Advanced": [
-      "testimonials",
-      "people",
-      "footer",
-      "branding",
-      "get_active_button",
-      "seo",
-      "donations"
+      "3-1-people",
+      "3-2-footer",
+      "3-3-header",
+      "3-4-donations"
     ]
   }
 }
