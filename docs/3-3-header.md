@@ -35,8 +35,8 @@ different devices using the device icons on the bottom).
 
 ### Logo
 You may change the logo also in the Customizer under _Site Identity_. Please 
-upload the inverted version (white grphics, green font) as the light variant.
-It is placed in the green section.
+upload the inverted version of the logo (white grphics, green font) as the 
+light variant. It is placed in the green section.
 
 > If you have, it's best to upload the logos as compressed .svg files. 
 Alternatively you may also upload them as .png files. In either case, verify 

@@ -50,8 +50,8 @@ Quotes are especially nice in press releases.
 
 ![Screenshot](assets/quote.png)
 
-To add a qoute, first add the person. Then switch over to the page or post where
-you want to include the quote and add a 
+To add a qoute, first create the person. Then switch over to the page or post 
+where you want to include the quote and add a 
 [content block](2-3-page.md#content-blocks) of type _Quote_.
 
 If you do this in a post in the [Press Release](2-4-post.md#template) template 

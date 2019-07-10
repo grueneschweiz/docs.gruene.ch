@@ -22,13 +22,13 @@ with the others.
 
 #### Add or Edit Widgets
 
-Go to **Design** > **Widgets**. While you have the footer widget zone the right 
-hand side, you'll find the available widgets on the left. If you want to add 
-a new widget to the footer, choose on the left and drag it over into the 
+Go to **Design** > **Widgets**. While you have the footer widget zone on the 
+right hand side, you'll find the available widgets on the left. If you want to 
+add a new widget to the footer, choose on the left and drag it over into the 
 _Footer_ zone. Expand the widget in the footer widget zone to edit it. 
 
 
-## Footer Navigation
+### Footer Navigation
 
 The footer navigation in the green bar is just another navigation. You can 
 edit it like the main navigation (under **Design** > **Menu**). Keep it very 
@@ -38,6 +38,6 @@ lean (one to three entries only) and don't nest it.
 ## Legal limitations
 
 The swiss laws oblige you, to have your address available from every page (if
- you sell things or raise funds). Therefor we advise you to use the footer 
+ you sell things or raise funds). Therefore we advise you to use the _Contact_ 
  widget. Alternatively you may also add an imprint page and link it in the 
  footer navigation. 
