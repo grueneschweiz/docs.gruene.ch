@@ -3,18 +3,24 @@ title: Edit the Footer
 sidebar_label: Footer
 ---
 
+## Precondition
+We assume you have already gathered some experience with your website and know
+the basics terms, how to edit or add a post etc.
+
+## Anatomy of the Footer
+
 The upper part (grey) of the footer consists of multiple widgets, while the 
 lower part (green) contains simply a menu.
 
 ![Screenshot](assets/footer.png)
 
-## Footer Widgets
+### Footer Widgets
 
 We generally advise you to use the three widgets _Link List_, _Button_ and 
 _Contact_ as your footer elements, but you are free to experiment as well 
 with the others.
 
-### Add or Edit Widgets
+#### Add or Edit Widgets
 
 Go to **Design** > **Widgets**. While you have the footer widget zone the right 
 hand side, you'll find the available widgets on the left. If you want to add 
