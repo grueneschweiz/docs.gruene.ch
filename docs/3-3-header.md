@@ -48,5 +48,5 @@ Use a .png for the site icon.
 ### Get Active Button
 
 Also the _Get Active Button_ is edited in the Customizer, under, surprise, 
-surprise _Get Active Button_ 😉. If you don't want to have the button, just 
+surprise _Get Active Button_. If you don't want to have the button, just 
 leave the fields empty.

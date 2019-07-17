@@ -37,7 +37,7 @@ correspondig page or post and select the form that should be displayed.
 
 ## Form details
 
-Add fields using the _Add field_ button 😉. You may **reorder** them by grabbing 
+Add fields using the _Add field_ button. You may **reorder** them by grabbing 
 them on their number on the right hand side and dragging them on the position 
 of desire.
 

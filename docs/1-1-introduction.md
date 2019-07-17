@@ -4,7 +4,7 @@ title: Introduction
 
 You don't have a personal Website yet?
 
-► Get a [personal website](https://extern18.gruene.ch/musterperson/angebot)
+> Get a [personal website](https://extern18.gruene.ch/musterperson/angebot)
 
 ## About this documentation
 
@@ -20,12 +20,14 @@ out is the be-all and end-all, you can't break anything.**
 For the sake of fairness the screenshots in this documentation are sometimes 
 in english, sometimes french or german – even though your installation 
 will be well translated into the language of your preference.
+
+> Do you prefer this [Manual as PDF](manual.pdf)?
    
 ## WordPress is well documented online
 
 **If you get stuck, a Google search is recommended in any case**. WordPress 
 is so widespread that almost every question is answered by a small tutorial or a 
 forum post. If you don't find what you're looking for on Google, we'll be 
-happy to help. Just email us 😉
+happy to help. Just email us.
 
 Now we wish you a lot of fun and success.

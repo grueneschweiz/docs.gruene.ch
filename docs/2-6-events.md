@@ -13,9 +13,9 @@ Make sure you
 
 ## Editing or adding an event
 
-This works similar as for posts and pages: In the [backend](1-2-terms
-.md#backend) go to _Events_ then click _Add New_ or hover over the event you 
-want to edit and click _Edit_.
+This works similar as for posts and pages: In the 
+[backend](1-2-terms.md#backend) go to _Events_ then click _Add New_ or hover 
+over the event you want to edit and click _Edit_.
 
 Other than for posts and pages, the image is only displayed in the teaser. 
 But it is mandatory (else the design looks really bad).

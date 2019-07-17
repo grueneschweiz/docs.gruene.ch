@@ -46,6 +46,7 @@ about a specific block, just add it. It contains a help text.
 
 ## Link Lists
 ![Screenshot](assets/link-lists.png)
+
 This is optional, it's perfectly fine, if you leave it empty. However if you 
 like to add some additional content, feel free to experiment with it. We 
 invested, to explain it right in the editing mask.
