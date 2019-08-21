@@ -16,7 +16,7 @@ the _edit page_ button.
 
 ![Screenshot](assets/edit-button.png)
 
-1. Go to _Pages_, hover the mouse pointer over the front page and click the 
+2. Go to _Pages_, hover the mouse pointer over the front page and click the 
 _Edit_ link.
 
 ![Screenshot](assets/edit-page.png)
