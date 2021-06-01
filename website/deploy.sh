@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # halt on all errors
-set -e
+set -euo pipefail
 
 # load environment variables
 source ../.env
