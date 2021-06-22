@@ -46,14 +46,17 @@ it). Just change the value in the corresponding dropdown and close the dialog
 ### Insert Images
 
 If you wish the insert an image anywhere in your post or page, you are advised
-to use a _Image_ [content block](#the-content-blocks). The image content block
-automatically adapts the image size to the visitor's screen width, regardless if
-it's a mobile device or a large desktop monitor.
+to use an _Image_ [content block](2-2-front/#the-content-blocks). The content 
+block image automatically adapts the image size to the viewer's screen width, 
+regardless whether it's a mobile device or a large desktop monitor.
 
 If you need to embed an image between two paragraphs of text, you may just
-split the text into two text blocks, separated by an image block.
+split the text into two text blocks, separated by an image block. Compared to
+inserting the image directly into the text block, the text-image-text block 
+setup brings major advantages when viewing the page on narrow screens.
 
 ![Screenshot](assets/image-block.png)
+
 
 ## Media Link
 
