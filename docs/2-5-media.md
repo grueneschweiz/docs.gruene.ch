@@ -26,7 +26,7 @@ the visitors device and internet connection).
 If you have the choice use images with a **landscape aspect ratio**, they work 
 better with the different screen formats.
 
-### File format
+### File Format
 
 For the web, it's best to use _.jpeg_ for photos and _.png_ for graphics and 
 images with text in it.
@@ -42,6 +42,18 @@ it). Just change the value in the corresponding dropdown and close the dialog
 
 ![Screenshot](assets/focal-point.png)
 
+
+### Insert Images
+
+If you wish the insert an image anywhere in your post or page, you are advised
+to use a _Image_ [content block](#the-content-blocks). The image content block
+automatically adapts the image size to the visitor's screen width, regardless if
+it's a mobile device or a large desktop monitor.
+
+If you need to embed an image between two paragraphs of text, you may just
+split the text into two text blocks, separated by an image block.
+
+![Screenshot](assets/image-block.png)
 
 ## Media Link
 
