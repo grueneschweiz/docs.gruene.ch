@@ -56,13 +56,3 @@ inserting the image directly into the text block, the text-image-text block
 setup brings major advantages when viewing the page on narrow screens.
 
 ![Screenshot](assets/image-block.png)
-
-
-## Media Link
-
-If you need the url of an asset, you can get it using the _Copy Link_:
-
-![Screenshot](assets/media-link.png)
-
-Just click the _Copy Link_ label and the link will be highlighted and is 
-ready to copy.
