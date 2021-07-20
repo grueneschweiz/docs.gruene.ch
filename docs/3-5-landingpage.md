@@ -3,6 +3,7 @@ title: Landingpage
 ---
 
 ## Precondition
+
 - We assume you have already gathered some experience with your website and 
   know the basics terms, how to edit or add a post etc.
 - You know how to use post or page [templates](2-4-post.md#template).
@@ -27,6 +28,7 @@ hit the page following a link on the website itself.
 ### Visitors coming from an external source
 To remove as much distraction as possible, visitors coming from an external 
 source:
+
 - never see the green bar on the top of the page 
   ([tagline](3-3-header/#edit-the-header-with-the-customizer)).
 - always see the mobile menu (hamburger), even if they are on a desktop device.
@@ -49,6 +51,7 @@ free design.
 **Force distraction free design**
 
 Just append `?focus` to the link. Example:
+
 - Only distraction free for visitors coming from an external source: 
   [`https://grunee.ch/spende`](https://gruene.ch/spende)
 - Always distraction free: 
@@ -56,6 +59,7 @@ Just append `?focus` to the link. Example:
 
 
 ## Advice for editors
+
 - The call to action should be close to the top.
 - If there is a lot of content after the call to action, consider providing an
   anchor link that lets the visitor jump back to the call to action.
