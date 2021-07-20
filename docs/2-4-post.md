@@ -57,14 +57,16 @@ topic. Their use is optional.
 
 ## Template
 
-There are three different post templates available:
+There are four different post templates available:
 1. The _Default Template_ is the general template. It's what you will use 
 most of the time.
-1. The _Overview Page_ is here to create a nicely hand curated list of posts.
-Don't use it for post lists, that will update frequently and maybe wont have 
+1. The _Landing Page_ can be used to put the focus on a specific call to 
+   action. See [Landing Page](3-5-landingpage.md) for details.
+1. The _Overview Page_ is here to create a nice hand curated list of posts.
+Don't use it for post lists, that will update frequently and maybe won't have 
 an image. Use an [archive](2-8-navigation.md#categories-archives) instead.
 1. The _Press Release_ template is here for your press releases. Use it only 
-for this.
+for this. 
 
 You can change the template in the _Post Attribues_ meta box, which is located
 on the bottom of the right column.
