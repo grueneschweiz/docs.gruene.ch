@@ -30,7 +30,7 @@ To remove as much distraction as possible, visitors coming from an external
 source:
 
 - never see the green bar on the top of the page 
-  ([tagline](3-3-header/#edit-the-header-with-the-customizer)).
+  ([tagline](3-3-header.md/#edit-the-header-with-the-customizer)).
 - always see the mobile menu (hamburger), even if they are on a desktop device.
 - don't see meta information like tags, categories, etc.
 - only see the contact widget (and text widgets if in use).
@@ -66,7 +66,7 @@ Just append `?focus` to the link. Example:
 - It might be a good idea to leave out the header image, so the visitors 
   have to scroll less until they reach the interesting part. You can add a 
   preview image for social media using the 
-  [SEO settings](2-2-front/#search-engines-and-social-media). 
+  [SEO settings](2-2-front.md/#search-engines-and-social-media). 
 - Think about hiding the share buttons (you'll find the corresponding 
   control in the page editor, just below the main content section.)
 
