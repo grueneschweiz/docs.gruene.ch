@@ -45,8 +45,7 @@ the have a transparent background!
 Use a .png for the site icon.
 
 
-### Get Active Button
+## Get Active Button
 
-Also the _Get Active Button_ is edited in the Customizer, under, surprise, 
-surprise _Get Active Button_. If you don't want to have the button, just 
-leave the fields empty.
+The _Get Active Button_ is actually a menu (with only a single top level entry).
+Read the [navigation](2-8-navigation.md) manual page for further assistance.
