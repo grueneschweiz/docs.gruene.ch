@@ -14,6 +14,9 @@ docker compose --profile translate down
 # load newest translations first
 docker compose --profile build up crowdin
 
+# remove static files
+rm -rf website/build
+
 # build static files
 docker compose --profile build run docusaurus yarn build
 
