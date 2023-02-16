@@ -4,20 +4,20 @@ title: FAQ
 
 ## How can I edit the get active button?
 
-See chapter [Header](3-3-header/#get-active-button).
+See chapter [Header](3-3-header.md#get-active-button).
 
 
 ## How do I add a page with all my posts / news?
 
 Pages with all your posts are called archives (read more about 
-[archives](1-2-terms/#archive)). Archives are created automatically, you don't
-have to add a page or post for it. If for example you want to create an archive
+[archives](1-2-terms.md#archive)). Archives are created automatically, you 
+don't have to add a page or post for it. If for example you want to create an archive
 with all your _news_ posts, all you have to do is:
 
 1. assign those posts the category _news_ (see 
-   [categories](1-2-post/#categories)).
+   [categories](2-4-post.md#categories)).
 2. Link the category in the navigation (see 
-   [navigation](2-8-navigation.md#/edit-the-navigation)).
+   [navigation](2-8-navigation.md#edit-the-navigation)).
 
 
 ## The latest press release is not displayed on the front page. Why?
