@@ -125,6 +125,10 @@ certain category (provided the posts were created with the
 [_Press Release_ template](2-4-post.md#template)). If the given 
 post contains a quote, the quote will be displayed instead of the lead.
 
+> **Pitfall**: This block only shows posts with the 
+> [_Press Release_ template](2-4-post.md#template). Check the template of your
+> press release, if this block doesn't show it.
+
 ![Screenshot](assets/press-release-block.png)
 
 
