@@ -1,18 +1,36 @@
-version: "3"
+version: "3.9"
 
 services:
   docusaurus:
-    build: .
+    image: node:8
     ports:
       - 3000:3000
-      - 35729:35729
+      - 35729:35729 # Live reload
     volumes:
-      - ./docs:/app/docs
-      - ./website/blog:/app/website/blog
-      - ./website/core:/app/website/core
-      - ./website/i18n:/app/website/i18n
-      - ./website/pages:/app/website/pages
-      - ./website/static:/app/website/static
-      - ./website/sidebars.json:/app/website/sidebars.json
-      - ./website/siteConfig.js:/app/website/siteConfig.js
-    working_dir: /app/website
+      - .:/var/www/html
+    working_dir: /var/www/html/website
+    command: yarn start
+    profiles:
+      - dev
+      - build
+
+  crowdin:
+    image: crowdin/cli
+    volumes:
+      - .:/var/www/html
+    entrypoint: /bin/sh
+    working_dir: /var/www/html
+    command: -c "./translate.sh"
+    profiles:
+      - translate
+      - build
+
+  pandoc:
+    image: pandoc/latex:3
+    volumes:
+      - .:/var/www/html
+    entrypoint: /bin/sh
+    working_dir: /var/www/html
+    command: -c "./pandoc.sh"
+    profiles:
+      - build
