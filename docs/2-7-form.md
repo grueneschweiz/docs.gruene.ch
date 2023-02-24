@@ -3,10 +3,6 @@ title: Edit a form
 sidebar_label: Form
 ---
 
-> The forms will be improved in the next months. Let us know, if there is 
-something that doesn't work as expected or if you have an idea to improve 
-something. 
-
 ## Precondition
 
 Make sure you
