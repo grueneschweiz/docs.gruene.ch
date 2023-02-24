@@ -33,3 +33,25 @@ protection regulation requires us to ask visitors to opt in to this, before
 any data is transmitted. The feed would thus only be shown, after the visitor
 accepts the data transmission. Thus, the whole thing is somewhat useless, and 
 we recommend to simply add a link to the social media profile instead.
+
+
+## How do I make a supporter list where people can sign up?
+
+On the [sample site for candidates](https://extern18.gruene.ch/musterperson/angebot)
+you'll find an 
+[example implementation](https://extern21.gruene.ch/musterperson/unterstuetzungskomitee).
+It consists basically of two elements:
+- A [content block](2-3-page.md/#content-blocks) of type text, in which you 
+  enter all supporters.
+- A form block, with a [form](2-7-form.md) where the supporters can subscribe 
+  themselves.
+
+The experience with a previous system has shown misuse of the form, if the form 
+data is automatically added to the list. Trolls and spammers like to take 
+advantage of such behavior. And also legitimate subscribers like to have their 
+typos corrected, before they appear in the list ;) We have therefore decided to 
+always add supporters manually and thus not implemented an automatism for it.
+
+You can set up a [notification](2-7-form.md/#notification) to your e-mail 
+address for new subscriptions. So you know, when you have to add a new supporter
+to the list.
