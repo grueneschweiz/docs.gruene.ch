@@ -5,6 +5,7 @@ set -euo pipefail
 source .env
 
 cd website
+rm -rf translated_docs
 
 crowdin upload sources \
   --auto-update \
