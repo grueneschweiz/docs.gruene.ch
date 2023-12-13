@@ -73,3 +73,24 @@ change the navigation.
 
 _Custom Links_ can be used to add some external links to the navigation. This
 can, for example come in handy, if you want to link to the page of your party.
+
+
+### Featured Menu Items
+
+![Screenshot](assets/featured-submenu-item.png)
+
+If you need only two menu levels, you can use the _Featured Menu Item_ setting
+to put a spotlight on a specific entry. To do so, toggle the _Featured Menu 
+Item_ setting and enter the required information.
+
+![Screenshot](assets/featured-submenu-item-setting.png)
+
+> **Note**: This setting only works on menu level 2 (in the screenshot above,
+> menu level 1 is _Aktuelles_, menu level 2 is _Kampagnen_, _Abstimmungen_, 
+> _Agenda_ and _Fair-Food_).
+
+It is also possible to feature all entries. Make sure there are no more than 
+four. Here an example for the [get active](3-3-header.md#get-active-button) 
+menu:
+
+![Screenshot](assets/featured-submenu.png)
