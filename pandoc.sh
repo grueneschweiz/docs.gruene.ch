@@ -7,7 +7,7 @@ echo 'generating english pdf'
 perl -0777 -pe 's/---(\n.*)*title:\s*([^\n]*)(\n.*)*\n---/\n\n# \2/' \
     docs/*.md \
     | sed 's/(assets\//(docs\/assets\//' \
-    | pandoc --toc -V lang=en \
+    | pandoc --toc -V lang=en -f markdown-implicit_figures \
         -s -o website/build/docs.gruene.ch/docs/en/1-1-introduction/manual.pdf
 echo 'success'
 
@@ -15,7 +15,7 @@ echo 'generating german pdf'
 perl -0777 -pe 's/---(\n.*)*title:\s*([^\n]*)(\n.*)*\n---/\n\n# \2/' \
     website/translated_docs/de/*.md \
     | sed 's/(assets\//(docs\/assets\//' \
-    | pandoc --toc -V lang=de \
+    | pandoc --toc -V lang=de -f markdown-implicit_figures \
         -s -o website/build/docs.gruene.ch/docs/de/1-1-introduction/manual.pdf
 echo 'success'
 
@@ -23,6 +23,6 @@ echo 'generating french pdf'
 perl -0777 -pe 's/---(\n.*)*title:\s*([^\n]*)(\n.*)*\n---/\n\n# \2/' \
     website/translated_docs/fr/*.md \
     | sed 's/(assets\//(docs\/assets\//' \
-    | pandoc --toc -V lang=fr \
+    | pandoc --toc -V lang=fr -f markdown-implicit_figures \
         -s -o website/build/docs.gruene.ch/docs/fr/1-1-introduction/manual.pdf
 echo 'success'
