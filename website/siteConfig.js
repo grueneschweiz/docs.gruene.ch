@@ -9,16 +9,16 @@
 // site configuration options.
 
 // List of projects/orgs using your project for the users page.
-const users = [
-  {
-    caption: 'Cyrill Bolliger',
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
-    pinned: true,
-  },
-];
+// const users = [
+//   {
+//     caption: 'Cyrill Bolliger',
+//     // You will need to prepend the image path with your baseUrl
+//     // if it is not '/', like: '/test-site/img/image.jpg'.
+//     image: '/img/undraw_open_source.svg',
+//     infoLink: 'https://www.facebook.com',
+//     pinned: true,
+//   },
+// ];
 
 const siteConfig = {
   title: 'GREEN Websites', // Title for your website.
@@ -88,8 +88,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
+  ogImage: 'img/logo_bw.svg',
+  twitterImage: 'img/logo_bw.svg',
 
   // Show documentation's last contributor's name.
   enableUpdateBy: true,
@@ -106,6 +106,17 @@ const siteConfig = {
 
   // Translate button url
   translationRecruitingLink: 'https://crowdin.com/project/docsgruenech',
+
+  // Search bar
+  // see https://v1.docusaurus.io/docs/en/search
+  algolia: {
+    apiKey: 'f60516297f73ef9bb9b0a9f2d79dc37e', // not secret
+    indexName: 'gruene',
+    appId: 'GMDLKR1KNJ',
+    algoliaOptions: {
+      facetFilters: [ "language:LANGUAGE" ]
+    }
+  },
 };
 
 module.exports = siteConfig;
